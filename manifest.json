@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Survey Auto-Answer",
+  "version": "1.0",
+  "description": "Auto answer surveys",
+  "content_scripts": [{
+    "matches": ["*://igracias.telkomuniversity.ac.id/*"],
+    "js": ["content.js"]
+  }]
+}
