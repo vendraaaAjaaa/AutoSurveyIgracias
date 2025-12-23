@@ -180,8 +180,6 @@ Users are responsible for:
 ## 🔄 Updates & Maintenance
 
 ### Version History
-- **v3.0** (Current): Scoring system, notifications, manual control
-- **v2.0**: Enhanced detection, better UI
 - **v1.0**: Basic auto-selection functionality
 
 ### Update Schedule
