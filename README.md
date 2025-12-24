@@ -60,7 +60,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/telkom-survey-auto-answer.git
+git clone https://github.com/vendraaaAjaaa/AutoSurveyIgracias.git
 
 # Navigate to project directory
 cd telkom-survey-auto-answer
